@@ -6,7 +6,7 @@ POPULAR libraries with **many stars** only.
 - [Analytics](https://github.com/freeskys/awesome-graddle#analytics)
 - [Crash Reporting](https://github.com/freeskys/awesome-graddle#crash-reporting)
 - [Networking](https://github.com/freeskys/awesome-graddle#networking)
-- [Reactive](https://github.com/freeskys/awesome-cocoapods#reactive)
+- [Reactive](https://github.com/freeskys/awesome-graddle#reactive)
 - [Helpers](https://github.com/freeskys/awesome-graddle#helpers)
 
 # Analytics
