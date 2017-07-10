@@ -6,6 +6,7 @@ POPULAR libraries with **many stars** only.
 - [Analytics](https://github.com/freeskys/awesome-graddle#analytics)
 - [Crash Reporting](https://github.com/freeskys/awesome-graddle#crash-reporting)
 - [Networking](https://github.com/freeskys/awesome-graddle#networking)
+- [Helpers](https://github.com/freeskys/awesome-graddle#helpers)
 
 # Analytics
 - [FirebaseAnalytics](https://firebase.google.com/docs/analytics/android/start/) - Google Analytics for Firebase collects usage and behavior data for your app.
@@ -15,3 +16,6 @@ POPULAR libraries with **many stars** only.
 
 # Networking
 - [Retrofit](http://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java.
+
+# Helpers
+- [Retrolambda](https://github.com/evant/gradle-retrolambda/) - This plugin will automatically build your java or android project with retrolambda, giving you lambda goodness on java 6 or 7.
