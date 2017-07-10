@@ -26,3 +26,6 @@ This module adds the minimum classes to RxJava that make writing reactive compon
 
 # Helpers
 - [Retrolambda](https://github.com/evant/gradle-retrolambda/) - This plugin will automatically build your java or android project with retrolambda, giving you lambda goodness on java 6 or 7.
+- [EventBus](https://github.com/greenrobot/EventBus/) - Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
+
+
