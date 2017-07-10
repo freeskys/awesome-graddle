@@ -6,6 +6,7 @@ POPULAR libraries with **many stars** only.
 - [Analytics](https://github.com/freeskys/awesome-graddle#analytics)
 - [Crash Reporting](https://github.com/freeskys/awesome-graddle#crash-reporting)
 - [Networking](https://github.com/freeskys/awesome-graddle#networking)
+- [Reactive](https://github.com/freeskys/awesome-cocoapods#reactive)
 - [Helpers](https://github.com/freeskys/awesome-graddle#helpers)
 
 # Analytics
@@ -16,6 +17,12 @@ POPULAR libraries with **many stars** only.
 
 # Networking
 - [Retrofit](http://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java.
+
+# Reactive
+- [RxJava](https://github.com/ReactiveX/RxJava/) - RxJava is a Java VM implementation of Reactive Extensions: a library for composing asynchronous and event-based programs by using observable sequences.
+- [RxAndroid](https://github.com/ReactiveX/RxAndroid/) - Android specific bindings for RxJava 2.
+This module adds the minimum classes to RxJava that make writing reactive components in Android applications easy and hassle-free. More specifically, it provides a Scheduler that schedules on the main thread or any given Looper.
+
 
 # Helpers
 - [Retrolambda](https://github.com/evant/gradle-retrolambda/) - This plugin will automatically build your java or android project with retrolambda, giving you lambda goodness on java 6 or 7.
