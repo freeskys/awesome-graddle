@@ -32,4 +32,4 @@ This module adds the minimum classes to RxJava that make writing reactive compon
 
 
 # Validator
-- [Saripaar] (https://github.com/ragunathjawahar/android-saripaar) - The Simplest UI validation library available for Android.
+- [Saripaar](https://github.com/ragunathjawahar/android-saripaar) - The Simplest UI validation library available for Android.
