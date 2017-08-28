@@ -8,6 +8,7 @@ POPULAR libraries with **many stars** only.
 - [Networking](https://github.com/freeskys/awesome-graddle#networking)
 - [Reactive](https://github.com/freeskys/awesome-graddle#reactive)
 - [Helpers](https://github.com/freeskys/awesome-graddle#helpers)
+- [Validator](https://github.com/freeskys/awesome-graddle#validator)
 
 # Analytics
 - [FirebaseAnalytics](https://firebase.google.com/docs/analytics/android/start/) - Google Analytics for Firebase collects usage and behavior data for your app.
@@ -30,3 +31,5 @@ This module adds the minimum classes to RxJava that make writing reactive compon
 - [Lombok](https://projectlombok.org/setup/android/) - You can annotate any field with @Getter and/or @Setter, to let lombok generate the default getter/setter automatically.
 
 
+# Validator
+- [Saripaar] (https://github.com/ragunathjawahar/android-saripaar) - The Simplest UI validation library available for Android.
